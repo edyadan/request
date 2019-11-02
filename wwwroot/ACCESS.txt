@@ -1,0 +1,19 @@
+http://sgc.gmisa.com.pe/msso
+Usuario: berhsa@yahoo.com
+Clave: berhsa@yahoo.com
+
+Cuenta: korea-inspections@bmconsultingeng.com
+Servidor: bmconsultingeng.com
+Contraseña: korea-inspections
+
+From:
+korea-inspections@bmconsultingeng.com
+To:
+lparedesm@gmisa.com.pe;GCusinga@gmisa.com.pe;ynes.anaya@gmisa.com.pe;ricardo.zubiate@gmisa.com.pe;ruby.aliaga@gym.com.pe
+Cc:
+nathy.vargas@gmisa.com.pe;edgar.camero@gmisa.com.pe;rnoblecilla@gym.com.pe;lady.lopez@gmisa.com.pe;cesar.flores@gym.com.pe;pbravo@gym.com.pe;macorrea@gmisa.com.pe;berhsa@yahoo.com;edyadan@outlook.com;gerardo.mendoza@gmisa.com.pe;Romeroricardo.zubiate@gmisa.com.pe;Vigomacorrea@gmisa.com.pe;Navagerardo.mendoza@gmisa.com.pe
+
+
+
+
+
